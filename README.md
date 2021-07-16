@@ -50,7 +50,7 @@ Hier ist eine kleine Anleitung, wie unsere Einkaufsliste lokal installiert und g
 1. XAMPP installieren, Server aus dem Dashboard starten
 2. Das Repository clonen
     ```sh
-   git clone https://github.com/DallAlexander/EinkaufsListe.git
+   https://github.com/Ante6464/EinkaufslisteIBT.git
    ```
 3. Datenbank-Dump in das Datenbankmanagementsystem einpflegen, siehe: `dump.sql`
 4. Die Verbindung zur lokalen Datenbank in `config.php` und `index.php` herstellen
